@@ -1,2 +1,2 @@
 # my_Project
-## priject notes
+## project notes
